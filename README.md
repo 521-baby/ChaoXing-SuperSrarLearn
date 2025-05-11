@@ -26,7 +26,8 @@
 
 ### 2. 安装脚本  
 - 点击下方链接一键安装：  
-  [📥 安装 学习通（刷课+考试）油猴脚本]([https://greasyfork.org/zh-CN/scripts/530068-%E5%AD%A6%E4%B9%A0%E9%80%9A%E5%8A%A9%E6%89%8B-%E5%AE%8C%E5%85%A8%E5%85%8D%E8%B4%B9-%E4%B8%80%E9%94%AE%E6%8C%82%E6%9C%BA-ai%E8%A7%A3%E7%AD%94-%E8%A7%86%E9%A2%91-%E6%B5%8B%E8%AF%95-%E8%80%83%E8%AF%95-ai%E8%A7%A3%E7%AD%94-%E5%85%A8%E8%87%AA%E5%8A%A8%E5%88%B7%E8%AF%BE%E8%84%9A%E6%9C%AC-%E5%8F%AF%E8%B0%83%E8%8A%82%E5%80%8D%E9%80%9F-%E8%87%AA%E7%AD%94%E9%A2%98%E7%9B%AE-%E5%90%89%E7%8C%AA%E7%94%9F%E6%B4%BB])
+  [📥 安装 学习通（刷课+考试）油猴脚本](https://greasyfork.org/zh-CN/scripts/530068-%E5%AD%A6%E4%B9%A0%E9%80%9A%E5%8A%A9%E6%89%8B-%E5%AE%8C%E5%85%A8%E5%85%8D%E8%B4%B9-%E4%B8%80%E9%94%AE%E6%8C%82%E6%9C%BA-ai%E8%A7%A3%E7%AD%94-%E8%A7%86%E9%A2%91-%E6%B5%8B%E8%AF%95-%E8%80%83%E8%AF%95-ai%E8%A7%A3%E7%AD%94-%E5%85%A8%E8%87%AA%E5%8A%A8%E5%88%B7%E8%AF%BE%E8%84%9A%E6%9C%AC-%E5%8F%AF%E8%B0%83%E8%8A%82%E5%80%8D%E9%80%9F-%E8%87%AA%E7%AD%94%E9%A2%98%E7%9B%AE-%E5%90%89%E7%8C%AA%E7%94%9F%E6%B4%BB)
+  
   [📥 安装 学习通（刷课+考试）脚本猫脚本](https://scriptcat.org/zh-CN/script-show-page/3321)
 - 浏览器会自动跳转至安装页面，点击 **安装** 即可完成  
 
