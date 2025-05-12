@@ -1,7 +1,7 @@
 ### 🥇【学习通助手】【完全免费】【一键挂机】【视频+测试+考试+AI解答】 全自动刷课脚本|可调节倍速|自答题目🏆（吉猪生活）🥳![大学必备神器🎉](https://glitch-art.vercel.app/api/simple?word={🥳大学必备神器🎉})
 ### 🔗 其他链接  
 - 脚本源码：[GitHub 仓库](https://github.com/521-baby/ChaoXing-SuperSrarLearn)    
-- 如果有帮助到你<img src='https://github.com/user-attachments/assets/830f9d78-a85c-4d62-be5e-cc0af727eabe' width='16px' /> 投喂渠道：[⚡爱发电](https://afdian.com/a/chunshu) or [微信赞赏](https://github.com/521-baby/521-baby/blob/main/DONATE.md)</del>
+- 如果有帮助到你<img src='https://github.com/user-attachments/assets/830f9d78-a85c-4d62-be5e-cc0af727eabe' width='16px' /> 投喂渠道：[⚡爱发电](https://afdian.com/a/chunshu) or [微信赞赏](https://github.com/521-baby/521-baby/blob/main/DONATE.md) or [支付宝](https://github.com/521-baby/521-baby/blob/main/DONATE2.md)</del>
 ## 🚀 功能 
 - ✨ 一键挂机，视频+测试+考试+AI解答
 - ⌨️ 可调节倍速|自答题目
